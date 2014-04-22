@@ -22,4 +22,4 @@ As your first steps, change the package and app name in the manifest. Next you'l
 
 ## See also
 
-If you want Robolectric support, [there's a project template for that, too](/zofrex/gradle-template-android-robolectric).
+If you want Robolectric support, [there's a project template for that, too](https://github.com/zofrex/gradle-template-android-robolectric).
