@@ -19,3 +19,7 @@ This is all under the ISC license, which should give you enough freedom to use t
 ## Beginner's Guide
 
 As your first steps, change the package and app name in the manifest. Next you'll probably want to create a java package in src/main/java, and create an Activity class. Any resources your app needs can be put in src/main/res. Lastly you might want to change or add some dependencies in build.gradle.
+
+## See also
+
+If you want Robolectric support, [there's a project template for that, too](/zofrex/gradle-template-android-robolectric).
